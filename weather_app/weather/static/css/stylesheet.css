@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.card {
+  background-color: #949494;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+.input-group {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+.btn-outline-secondary {
+  background-color: #3c9aff;
+  color: white;
+}
+.btn-outline-secondary:hover {
+  background-color: #0069d9;
+}
+.card-body {
+  background-color: #cfcfcf;
+}
